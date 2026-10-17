@@ -79,7 +79,7 @@ See the story of this site unfold in three YouTube videos:
 
 ## It's easy to contribute!
 
-New recipes can be submitted [on Github](https://github.com/lukesmithxyz/based.cooking).
-We are funded by you only, not 20MB of ads or privacy-violating trackers per page.
+Neue Rezepte können [auf GitHub](https://github.com/ebeeken/based.cooking) eingereicht werden.
+Wir werden nur von dir finanziert, nicht von 20 MB Werbung oder datenschutzverletzenden Trackern pro Seite.
 
 {{< crypto >}}
