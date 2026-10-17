@@ -5,6 +5,8 @@ tags: ['huhn', 'auflauf', 'paprika', 'käse']
 author: "Sister"
 ---
 
+![Paprika-Sahne-Hähnchen](/pix/paprika-sahne-haehnchen.webp)
+
 Dazu passen Bandnudeln oder Reis und Eisbergsalat mit Mandarinen und süß-saurer Vinaigrette.
 
 - ⏲️ Zubereitungszeit: 20 Min.

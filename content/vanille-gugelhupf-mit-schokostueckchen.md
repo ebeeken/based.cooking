@@ -5,6 +5,8 @@ tags: ['kuchen', 'gugelhupf', 'schokolade', 'dessert', 'backen']
 author: "Küchenchaotin"
 ---
 
+![Vanille-Gugelhupf mit Schokostückchen](/pix/vanille-gugelhupf-mit-schokostueckchen.webp)
+
 - ⏲️ Vorbereitungszeit: 15 Min.
 - 🍳 Backzeit: ca. 50–60 Min.
 - 🍽️ Portionen: 12 (1 große Gugelhupfform)
