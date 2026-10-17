@@ -1,5 +1,5 @@
 ---
-title: "🍲 Based Cooking 🍳"
+title: "🍲 Schnelles Kochen 🍳"
 description: 'Die schnell ladende Rezeptseite – nur Kochen, keine Werbung.'
 layout: single
 ---
