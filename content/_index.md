@@ -73,8 +73,8 @@ document.addEventListener("DOMContentLoaded", () => {
 Neue Rezepte können [auf GitHub](https://github.com/ebeeken/based.cooking) eingereicht werden.
 Wir werden nur von dir finanziert, nicht von 20 MB Werbung oder datenschutzverletzenden Trackern pro Seite.
 
+<h2 id="geforkt-von" style="text-align:center">Geforkt von</h2>
+
+<p style="text-align:center"><a href="https://github.com/lukesmithxyz/based.cooking">based.cooking</a></p>
+
 {{< crypto >}}
-
-## Geforkt von
-
-[based.cooking](https://github.com/lukesmithxyz/based.cooking)
