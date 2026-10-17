@@ -13,6 +13,7 @@ theme = 'lugo'
   authorsinlist = false
   nextprev = false
   showrss = true
+  relatedtext = "Verwandt"
 
 [markup]
   [markup.goldmark]

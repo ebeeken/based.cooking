@@ -302,7 +302,7 @@ button#clear-search:hover {
 
 .js-only { display: none ; }
 
-.backlink { margin: 0 0 1em; }
+.backlink { margin: 0; padding: 1em 0 .5em; }
 
 /* mehr Abstand zwischen Zutaten und Zubereitungsschritten */
 article li:not(#artlist li, #tagcloud li) { margin-bottom: .6em; }
