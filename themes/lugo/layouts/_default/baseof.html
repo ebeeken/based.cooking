@@ -17,6 +17,7 @@
 <body>
 {{ if .Site.Menus.main }}{{ partial "nav.html" . }}{{ end -}}
 <main>
+{{ if not .IsHome }}<p class="backlink"><a href="{{ .Site.Home.RelPermalink }}">&larr; Zur Startseite</a></p>{{ end }}
 <a href="{{ .Site.Home.RelPermalink }}"><header>
 	<h1 id="tag_{{ replaceRE "(\\s)" "-" .Title }}">{{ block "title" . }}{{ end }}</h1>
 	{{- with .Param "subtitle" }}

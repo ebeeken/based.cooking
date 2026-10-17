@@ -11,7 +11,7 @@ theme = 'lugo'
   taglist = true
   datesinlist = false
   authorsinlist = false
-  nextprev = true
+  nextprev = false
   showrss = true
 
 [markup]
