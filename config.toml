@@ -1,6 +1,7 @@
 title = 'Based Cooking'
+defaultContentLanguage = 'de'
 baseURL = 'https://food.ebeeken.de/'
-locale = 'en-us'
+locale = 'de-de'
 theme = 'lugo'
 
 [params]

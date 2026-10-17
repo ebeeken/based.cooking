@@ -1,6 +1,6 @@
 {{ $author := index .Site.Data.authors (.Params.author | default "default") }}
 {{- if $author -}}
-<h2>Contributor(s)</h2>
+<h2>Mitwirkende</h2>
 <ul>
 <li>
 {{- if $author.website -}}<a href="{{ $author.website }}">{{- end -}}
@@ -17,7 +17,7 @@
 <li><img src="/pix/eth.svg" alt="ETH Logo">Ether: <code>{{ $author.eth }}</code></li>
 {{- end -}}
 {{- if $author.donate }}
-<li><a href="{{ $author.donate }}">Donate/Tip</a></li>
+<li><a href="{{ $author.donate }}">Spenden/Trinkgeld</a></li>
 {{- end -}}
 </ul>
 </li>

@@ -1,15 +1,15 @@
 ---
 title: "🍲 Based Cooking 🍳"
-description: 'The fast-loading recipe site with cooking only and no ads.'
+description: 'Die schnell ladende Rezeptseite – nur Kochen, keine Werbung.'
 layout: single
 ---
 
-## What do you want to cook?
+## Was möchtest du kochen?
 
 <div class="search js-only">
-  <input type="text" id="search" placeholder="Search ALL Recipes...">
+  <input type="text" id="search" placeholder="ALLE Rezepte durchsuchen...">
   <button id="clear-search">
-    <svg xmlns="http://www.w3.org/2000/svg" class="ionicon" viewBox="0 0 512 512"><title>Backspace</title><path d="M135.19 390.14a28.79 28.79 0 0021.68 9.86h246.26A29 29 0 00432 371.13V140.87A29 29 0 00403.13 112H156.87a28.84 28.84 0 00-21.67 9.84v0L46.33 256l88.86 134.11z" fill="none" stroke="currentColor" stroke-linejoin="round" stroke-width="32"></path><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="32" d="M336.67 192.33L206.66 322.34M336.67 322.34L206.66 192.33M336.67 192.33L206.66 322.34M336.67 322.34L206.66 192.33"></path></svg>
+    <svg xmlns="http://www.w3.org/2000/svg" class="ionicon" viewBox="0 0 512 512"><title>Löschen</title><path d="M135.19 390.14a28.79 28.79 0 0021.68 9.86h246.26A29 29 0 00432 371.13V140.87A29 29 0 00403.13 112H156.87a28.84 28.84 0 00-21.67 9.84v0L46.33 256l88.86 134.11z" fill="none" stroke="currentColor" stroke-linejoin="round" stroke-width="32"></path><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="32" d="M336.67 192.33L206.66 322.34M336.67 322.34L206.66 192.33M336.67 192.33L206.66 322.34M336.67 322.34L206.66 192.33"></path></svg>
   </button>
 </div>
 
@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   const recipes = document.querySelectorAll("#artlist li");
   const search = document.getElementById("search");
-  const oldheading = document.getElementById("newest-recipes");
+  const oldheading = document.getElementById("neueste-rezepte");
   const clearSearch = document.getElementById("clear-search");
   const artlist = document.getElementById("artlist");
 
@@ -60,26 +60,21 @@ document.addEventListener("DOMContentLoaded", () => {
 // @license-end
 </script>
 
-## Newest Recipes
+## Neueste Rezepte
 
 {{< artlist >}}
 
-## Or Browse by Category...
+## Oder nach Kategorie stöbern...
 
 {{< tagcloud >}}
 
-## About this site
-
-Founded to provide a simple online cookbook without ads and obese web design.
-See the story of this site unfold in three YouTube videos:
-
-- [A Demonstration of Modern Web Bloat](https://www.youtube.com/watch?v=cvDyQUpaFf4)
-- [The War Against Web Bloat Continues...](https://www.youtube.com/watch?v=wY70NCW98Is)
-- [SoyDevs DESTROYED Epic Style by Based Cooking!](https://www.youtube.com/watch?v=ykNEkiYr0QM)
-
-## It's easy to contribute!
+## Über diese Seite
 
 Neue Rezepte können [auf GitHub](https://github.com/ebeeken/based.cooking) eingereicht werden.
 Wir werden nur von dir finanziert, nicht von 20 MB Werbung oder datenschutzverletzenden Trackern pro Seite.
 
 {{< crypto >}}
+
+## Geforkt von
+
+[based.cooking](https://github.com/lukesmithxyz/based.cooking)
