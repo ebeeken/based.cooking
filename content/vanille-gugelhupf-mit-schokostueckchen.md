@@ -8,8 +8,8 @@ author: "Küchenchaotin"
 ![Vanille-Gugelhupf mit Schokostückchen](/pix/vanille-gugelhupf-mit-schokostueckchen.webp)
 
 - ⏲️ Vorbereitungszeit: 15 Min.
-- 🍳 Backzeit: ca. 50–60 Min.
-- 🍽️ Portionen: 12 (1 große Gugelhupfform)
+- 🍳 Backzeit: ca. 60–70 Min. (Gugelhupfform), ca. 50–60 Min. (flache Kranzform)
+- 🍽️ Portionen: 12 (1 große Gugelhupf- oder Kranzform)
 
 ## Zutaten
 
@@ -25,8 +25,8 @@ author: "Küchenchaotin"
 
 ## Zubereitung
 
-1. Den Ofen auf 200 °C Ober-/Unterhitze vorheizen und die Gugelhupfform mit Butter einfetten.
+1. Den Ofen auf 170 °C Ober-/Unterhitze vorheizen und die Gugelhupfform mit Butter einfetten.
 2. Die weiche Butter mit Vanillezucker und Zucker cremig aufschlagen. Dann die Eier nacheinander unterrühren.
 3. Mehl und Backpulver mischen und abwechselnd mit der Milch unter die Buttermasse rühren. Zum Schluss die Schokostückchen vorsichtig unterheben.
-4. Den Teig in die gefettete Form füllen und ca. 50–60 Minuten backen. Mit der Stäbchenprobe prüfen, ob der Kuchen durch ist.
+4. Den Teig in die gefettete Form füllen und auf der untersten Schiene backen: in der Gugelhupfform ca. 60–70 Minuten, in einer flachen Kranzform ca. 50–60 Minuten. Wird die Oberfläche nach etwa 40 Minuten zu dunkel, den Kuchen locker mit Alufolie abdecken. Mit der Stäbchenprobe prüfen, ob der Kuchen durch ist. Bleibt noch Teig am Stäbchen kleben, weitere 5–10 Minuten backen.
 5. Den Kuchen vollständig auskühlen lassen und mit Puderzucker bestäuben.
