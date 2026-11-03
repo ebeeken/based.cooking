@@ -1,0 +1,6 @@
+{{- if and (not .IsHome) .File .Site.Params.repo -}}
+<p class="revision">
+{{- with .GitInfo }}Zuletzt geändert: {{ time.Format ":date_long" .AuthorDate }} &middot; {{ end -}}
+<a href="{{ .Site.Params.repo }}/commits/master/content/{{ .File.Path }}">Änderungsverlauf</a>
+</p>
+{{- end -}}

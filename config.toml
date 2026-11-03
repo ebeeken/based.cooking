@@ -1,5 +1,6 @@
 title = 'Schnelles Kochen'
 defaultContentLanguage = 'de'
+enableGitInfo = true
 baseURL = 'https://food.ebeeken.de/'
 locale = 'de-de'
 theme = 'lugo'
@@ -14,6 +15,7 @@ theme = 'lugo'
   nextprev = false
   showrss = true
   relatedtext = "Verwandt"
+  repo = "https://github.com/ebeeken/based.cooking"
 
 [markup]
   [markup.goldmark]
