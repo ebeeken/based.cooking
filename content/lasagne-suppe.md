@@ -36,3 +36,5 @@ Vegane Variante: [Vegane Lasagne-Suppe](/lasagne-suppe-vegan/)
 7. Den Herd ausschalten. Parmesan und Mozzarella einrühren, bis der Käse geschmolzen ist. Zum Schluss das Basilikum untermischen.
 
 Frisch geriebener Mozzarella schmilzt besser als fertig geriebener.
+
+Tipp zu den Gewürzen: Statt einzelner Kräuter passt eine Mischung aus italienischen Kräutern. Dazu extra frisches Basilikum und je nach Geschmack noch etwas mehr getrockneter Oregano.

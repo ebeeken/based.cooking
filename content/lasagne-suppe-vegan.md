@@ -38,3 +38,5 @@ Vegane Variante der [Lasagne-Suppe](/lasagne-suppe/) von Danny Loves Pasta. Hack
 7. Den Herd ausschalten. Sahne, Hefeflocken (oder veganen Parmesan) und veganen Reibekäse einrühren, bis der Käse geschmolzen ist. Zum Schluss das Basilikum untermischen.
 
 Die meisten getrockneten Lasagneplatten sind vegan, ein Blick auf die Zutatenliste (Ei) lohnt sich trotzdem. Statt Champignons und Linsen funktioniert auch veganes Hack (ca. 250 g).
+
+Tipp zu den Gewürzen: Statt einzelner Kräuter passt eine Mischung aus italienischen Kräutern. Dazu extra frisches Basilikum und je nach Geschmack noch etwas mehr getrockneter Oregano.
